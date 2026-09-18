@@ -1,6 +1,20 @@
 # CHANGELOG for Binance's API
 
-**Last Updated: 2026-09-02**
+**Last Updated: 2026-09-18**
+
+### 2026-09-18
+
+REST and WebSocket API:
+
+* Reminder that SBE 3:2 schema will be retired on 2026-09-25, [6 months after being deprecated](./faqs/sbe_faq.md#regarding-legacy-support).
+* The [SBE lifecycle for Production](./sbe/schemas/sbe_schema_lifecycle_prod.json) has been updated to reflect this change.
+
+FIX API:
+
+* Reminder that FIX SBE 1:0 schema will be retired on 2026-09-25, [6 months after being deprecated](./faqs/sbe_faq.md#regarding-legacy-support).
+* The [FIX SBE lifecycle for Production](./sbe/schemas/sbe_fix_schema_lifecycle_prod.json) has been updated to reflect this change.
+
+---
 
 ### 2026-09-02
 

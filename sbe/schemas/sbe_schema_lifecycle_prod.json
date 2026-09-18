@@ -17,15 +17,16 @@
       "version": 3,
       "releaseDate": "2026-03-25",
       "deprecatedDate": "2026-05-08"
-    },
+    }
+  ],
+  "retiredSchemas": [
     {
       "id": 3,
       "version": 2,
       "releaseDate": "2025-12-18",
-      "deprecatedDate": "2026-03-25"
-    }
-  ],
-  "retiredSchemas": [
+      "deprecatedDate": "2026-03-25",
+      "retiredDate": "2026-09-25"
+    },
     {
       "id": 3,
       "version": 1,
